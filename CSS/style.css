@@ -1,0 +1,43 @@
+header{
+	color: white;
+    text-align: center;
+    background: url(../Images/nyc.jpg);
+    background-size: cover;
+}
+ 
+
+h1{
+   font-size: 40px;
+   text-align: center;
+   font-family: sans-serif;
+   background:rgba(0,0,0,0.5);
+}
+ img{
+      margin: 40px;
+      border: 10px;
+      height: 200px;
+      width:  200px;
+}
+
+ul{
+	text-indent: 20px;
+}
+
+p{
+	color: black;
+  font-family: arial;
+}
+
+article{
+  padding: 20px;
+}
+
+body{
+	margin: 0 auto;
+  background: grey;
+ }
+
+div{
+  float: right;
+  background: white;
+}
